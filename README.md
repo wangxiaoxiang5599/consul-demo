@@ -1,5 +1,5 @@
 ### 下载启动consul包
-![consul.exe](https://www.consul.io/downloads)
+下载 https://www.consul.io/downloads <br>
 执行
 ```
 consul agent -dev
